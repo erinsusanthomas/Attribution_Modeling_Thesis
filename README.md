@@ -1,7 +1,7 @@
 # Attribution Modeling Thesis Repo (Erin Susan Thomas)
 This repository contains all the code files for my Master's Thesis at University of Galway, titled "Exploring Attribution Modeling in Digital Advertising"
 ## Contents
-[Code Notebooks](code_notebooks/):This directory contains notebooks where I performed data exploration and pre-processing, attribution allocation, and evaluated prediction performance and explainability for various attribution models.
+[Code Notebooks](code_notebooks/): This directory contains notebooks where I performed data exploration and pre-processing, attribution allocation, and evaluated prediction performance and explainability for various attribution models.
 - [Data Exploration and Pre-processing](code_notebooks/0-Data%20Exploration.ipynb)
 - [Traditional Attribution Models](code_notebooks/1-Traditional%20Models.ipynb)
 - [Logistic Regression Model](code_notebooks/2-Logistic%20Regression.ipynb)
